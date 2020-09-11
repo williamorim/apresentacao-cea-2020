@@ -5,6 +5,8 @@
 
 Apresentação feita no CEA (IME-USP) em setembro de 2020.
 
+Github: <https://github.com/williamorim/apresentacao-cea-2020>
+
 Slides:
 
   - [Organização de
