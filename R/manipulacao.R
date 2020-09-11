@@ -1,0 +1,3 @@
+funcao_manipulacao <- function() {
+
+}
